@@ -3,7 +3,7 @@ These are my assignments for the Discrete Mathematics I course ([SMA0180](https:
 
 ### Includes
 - A recursive implementation of the Extended Euclidean Algorithm
-- A program tha calculates fast modular exponentiation: a^e mod d <!---$a^e\ (mod\ d)$-->
+- An algorithm to calculate fast modular exponentiation: a^e mod d <!---$a^e\ (mod\ d)$-->
 - A RSA cryptosystem with a 16-bit key (this uses both the Extended Euclidean Algorithm and the above mentioned algorithm to calculate modular exponentiation)
 
 *Note: all the programs use command line arguments.*
